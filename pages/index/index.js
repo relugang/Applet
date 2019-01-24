@@ -42,7 +42,7 @@ Page({
         }
       })
     }
-  },
+  },// 随便加点什么东西提交测试一下吧，这条注释一点用处都没有
   getUserInfo: function(e) {
     console.log(e)
     app.globalData.userInfo = e.detail.userInfo
